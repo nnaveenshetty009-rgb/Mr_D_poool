@@ -1,0 +1,6 @@
+{
+  "name": "Mr_D_poool Movies",
+  "description": "The premium futuristic movie hub for the Mr_D_poool YouTube channel, featuring trailers, recaps, and reviews with beautiful glassmorphism style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
