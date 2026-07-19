@@ -1,0 +1,1 @@
+alert('Welcome to Mr_D_poool Website!');
